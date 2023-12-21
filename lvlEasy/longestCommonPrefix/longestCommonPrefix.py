@@ -1,7 +1,6 @@
 # https://leetcode.com/problems/longest-common-prefix/
 # https://leetcode.com/submissions/detail/1121419703/
 
-
 def longest_common_prefix(strs):
     answer = ""
     sorted_strs = sorted(strs)
