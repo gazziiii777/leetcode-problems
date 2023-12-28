@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/search-insert-position
-
 def search_insert(nums, target):
     left = 0
     right = len(nums) - 1

@@ -1,5 +1,3 @@
-# https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-
 def count_negatives(grid):
     count = 0
     for row in grid:
